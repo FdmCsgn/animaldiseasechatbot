@@ -19,7 +19,7 @@ def connect_db():
         'SERVER=localhost;'
         'DATABASE=AnimalDisease;'
         'UID=sa;'
-        'PWD=Troya963+-'
+        'PWD=?'
     )
     return conn
 
