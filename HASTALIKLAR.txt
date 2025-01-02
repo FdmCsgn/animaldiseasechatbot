@@ -1,0 +1,162 @@
+Contagious equine metritis
+Crayfish plague
+Crimean Congo haemorrhagic fever
+Cryptosporidiosis
+Cysticercosis
+Decapod iridescent virus 1
+Dermatophilosis
+Diseases of bees
+Dourine
+Duck virus enteritis
+Duck virus hepatitis
+Ebola Virus Disease
+Echinococcosis
+Elephant endotheliotropic herpesvirus (EEHV)
+Encephalomyocarditis virus infection
+Enzootic abortion of ewes
+Enzootic bovine leukosis
+Epizootic haematopoietic necrosis disease
+Epizootic haemorrhagic disease
+Epizootic lymphangitis
+Epizootic ulcerative syndrome
+Equine encephalomyelitis (Eastern)
+Equine encephalomyelitis (Western)
+Equine infectious anaemia
+Equine influenza
+Equine influenza
+Equine piroplasmosis
+Equine viral arteritis
+Equine viral rhinopneumonitis (caused by EHV-1)
+European brown hare syndrome virüs
+Fasciolosis (F. gigantica)
+Fasciolosis (F. magna)
+Feline leukaemia
+Fibropapillomatosis (in sea turtles)
+Filovirosis
+Foot and mouth disease
+Fowl cholera
+Fowl pox
+Fowl typhoid
+Glanders
+Gyrodactylosis (G. salaris)
+Haemorrhagic septicaemia
+Hantavirosis
+Heartwater
+Hendra virüs
+Hendra Virus (HeV) Infection
+Herpesvirosis (infection with Alcelaphine herpesvirus 1 or Ovine herpesvirus)
+Immunodeficiency virus infection
+Infection with covert mortality nodavirus (CMNV)
+Infection with Enterocytozoon hepatopenaei
+Infection with flavivirus (causing louping ill) – wild animals
+Infection with infectious salmon anaemia virus
+Infection with influenza A viruses of high pathogenicity in birds other than poultry including wild birds
+Infection with tilapia lake virus (TiLV)
+Infectious bovine rhinotracheitis/infectious pustular vulvovaginitis
+Infectious bursal disease (Gumboro disease)
+Infectious haematopoietic necrosis
+Infectious hypodermal and haematopoietic necrosis
+Infectious myonecrosis
+Influenza A virus of swine
+Japanese encephalitis
+Koi herpesvirus disease
+Leishmaniosis
+Leptospirosis
+Leptospirosis (L. interrogans)
+Listeriosis (L. monocytogenes)
+Listeriosis (L. monocytogenes) in wild animals
+Low pathogenic avian influenza (all subtypes)
+Lumpy Skin Disease
+Maedi-visna
+Malaria
+Malignant Catarrhal Fever
+Mange
+Marek’s disease
+Marteiliosis (M. refringens)
+Middle East respiratory syndrome (MERS)
+Morbillivirosis (canids and felids)
+Morbillivirosis (marine mammals)
+Morbillivirosis in non-human primates
+Morbillivirosis in other taxonomic groups of hosts
+MPox
+Mycotoxicosis
+Myxomatosis
+Nairobi sheep disease
+Necrotising hepatopancreatitis (Hepatobacter Penaei)
+New world screwworm (Cochliomyia hominivorax)
+Newcastle disease
+Newcastle disease (wild birds)
+Nipah virus
+Nipah virus infection (wild animals)
+Nosemosis of honey bees
+Old world screwworm (Chrysomya bezziana)
+Ovine chlamydiosis
+Ovine epididymitis (Brucella ovis)
+Ovine pulmonary adenocarcinoma (adenomatosis)
+Papillomatosis (in crocodiles)
+Paramyxovirosis (other than those listed by the WOAH)
+Paratuberculosis
+Parvovirosis
+Pasteurellosis
+Perkinsosis (P. marinus)
+Perkinsosis (P. olseni)
+Peste des petits ruminants
+Porcine cysticercosis
+Porcine epidemic diarrhoea
+Porcine reproductive and respiratory syndrome
+Pox viruses infection (other than those listed by the WOAH)
+Psoroptic mange
+Pullorum disease
+Q fever
+Rabbit haemorrhagic disease
+Rabies
+Ranavirosis
+Ranavirosis (wild animals)
+Red sea bream iridoviral disease
+Rift Valley fever
+Rinderpest
+Salmonellosis
+Salmonellosis (S. abortusovis)
+Salmonellosis (S. enterica, all serovars)
+Salmonid alphavirus infection
+SARS-CoV-2
+Scabies (S. scabiei)
+Schmallenberg disease
+Scrapie
+Sheep pox and goat pox
+Snake fungal disease (Ophidiomyces ophiodiicola)
+Spring viraemia of carp
+Surra (T. evansi)
+Swine influenza
+Swine vesicular disease
+Taura syndrome
+Teschovirus encephalomyelitis
+Theileriosis
+Theileriosis (new or unusual occurrences)
+Tick borne encephalitis
+Toxoplasmosis (in wild animals)
+Toxoplasmosis (T. gondii)
+Transmissible gastroenteritis
+Trichinellosis
+Trichinellosis (T. nelsonei, zimbabwei and papuae)
+Trichomonosis
+Trichomonosis (in Wild birds and reptiles)
+Trypanosomiase (tsetse transmitted)
+Tularemia
+Turkey rhinotracheitis
+Unusual morbidity or mortality event (cause undetermined)
+Venezuelan equine encephalitis
+Verocytotoxigenic Escherichia coli
+Vesicular Stomatitis
+Viral haemorrhagic septicaemia
+West Nile fever
+White spot disease
+White tail disease
+White-nose syndrome in bats
+Withering abalone syndrome (Xenohaliotis californiensis)
+Yellow fever
+Yellow head disease
+Yersiniosis enterocolitica
+Yersiniosis pestis
+Yersiniosis pseudotuberculosis
+Zoonoses transmissible from non-human primates
